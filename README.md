@@ -54,12 +54,11 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
-
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
-
-
-# Result
-
 # Output 
 ![image](https://github.com/Sachin-vlr/Correlation_Regression/assets/113497666/fe6d34f2-a97a-4949-b518-78d747ede626)
+
+# Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
+
 
